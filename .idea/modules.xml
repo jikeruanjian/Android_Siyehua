@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Android_Siyehua.iml" filepath="$PROJECT_DIR$/Android_Siyehua.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/MyListView.iml" filepath="$PROJECT_DIR$/app/MyListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyListView/MyListView.iml" filepath="$PROJECT_DIR$/MyListView/MyListView.iml" />
     </modules>
   </component>
 </project>
