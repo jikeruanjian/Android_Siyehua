@@ -6,7 +6,7 @@ Android_Siyehua
 
 
 效果:
-
+![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
 
 分析:
 
