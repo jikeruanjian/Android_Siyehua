@@ -1,0 +1,37 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/activity_main_imageview_title"
+        android:src="@drawable/title"
+        android:scaleType="fitXY"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+    <com.siyehua.srcollshowandhide.myview.MyScrollView
+        android:id="@+id/activity_main_scrollview_content"
+        android:text="@string/hello_world"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/activity_main_textview_content"
+            android:textSize="70sp"
+            android:layout_width="match_parent"
+            android:text="周杰伦（Jay Chou），1979年1月18日出生于台湾新北市，华语男歌手、词曲创作人、演员、MV及电影导演、编剧及制作人。2000年被吴宗宪发掘，发行首张个人专辑《Jay》。2002年在中国、新加坡、马来西亚、美国等地举办首场个人世界巡回演唱会。2003年登上美国《时代周刊》亚洲版封面人物。周杰伦的音乐融合中西方元素，风格多变，四次获得世界音乐大奖“中国区最畅销艺人”奖[1-2]   ；凭借专辑《Jay》《范特西》《叶惠美》及《跨时代》四次获得金曲奖最佳国语专辑奖，并凭借《魔杰座》《跨时代》获得第20届和第22届金曲奖“最佳国语男歌手”奖；2014年获QQ音乐年度盛典”港台最受欢迎男歌手”及最佳全能艺人奖[3] 。2005年涉足影视，以电影《头文字D》获第42届台湾电影金马奖及第25届香港电影金像奖“最佳新人”奖。2007年成立JVR（杰威尔）有限公司，自编自导自演的电影《不能说的秘密》获第44届台湾电影金马奖“年度台湾杰出电影”奖。2009年入选美国CNN亚洲极具影响力人物[4] 。2011年主演好莱坞3D电影《青蜂侠》进军国际。2013年自编自导自演第二部电影作品《天台爱情》。2014年加盟好莱坞电影《惊天魔盗团2》[5] 。演艺事业外，周杰伦2011年跨界担任华硕（ASUS）笔电外观设计师并入股香港文化传信集团。2012在内地开设真爱范特西连锁KTV。2013年受邀北京大学百年讲堂演讲，追忆青春为北大学子传递正能量[6-7]   。除了力拼自己的事业，周杰伦还热心公益慈善活动，多次向内地灾区捐款并与众多艺人募款新建希望小学。[8]"
+            android:layout_height="match_parent" />
+
+    </com.siyehua.srcollshowandhide.myview.MyScrollView>
+    <ImageView
+        android:layout_alignParentBottom="true"
+        android:id="@+id/activity_main_imageview_below"
+        android:src="@drawable/below"
+        android:scaleType="fitXY"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>

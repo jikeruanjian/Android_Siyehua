@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Android_Siyehua.iml" filepath="$PROJECT_DIR$/Android_Siyehua.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyListView/MyListView.iml" filepath="$PROJECT_DIR$/MyListView/MyListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/srcollshowandhide/srcollshowandhide.iml" filepath="$PROJECT_DIR$/srcollshowandhide/srcollshowandhide.iml" />
     </modules>
   </component>
 </project>
