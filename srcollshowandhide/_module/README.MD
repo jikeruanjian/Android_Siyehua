@@ -1,7 +1,7 @@
 #自定义SrcollView
 
 ##效果
-![Image](https://github.com/siyehua/Android_Siyehua/blob/master/srcollshowandhide/_module/myScrollview.gif)
+![Image](https://github.com/siyehua/Android_Siyehua/blob/master/srcollshowandhide/_module/myScrollView.gif)
 
 ##分析
 效果主要实现的功能:
