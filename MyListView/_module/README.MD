@@ -1,7 +1,7 @@
 最近要做一个类似于时钟滑动的效果,网上有这个例子:http://blog.csdn.net/leehong2005/article/details/8623694
 
 效果:
-![Image](https://github.com/siyehua/Android_Siyehua/blob/master/MyListView/_module/20141112101236036.png)
+![Image](https://github.com/siyehua/Android_Siyehua/blob/master/MyListView/_module/mylistview.gif)
 
 分析:
 
