@@ -1,1 +1,1 @@
-include ':MyListView', ':srcollshowandhide'
+include ':MyListView', ':srcollshowandhide', ':changesystembarcolor'
