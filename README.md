@@ -8,7 +8,7 @@
 ![Image](https://github.com/siyehua/Android_Siyehua/blob/master/MyListView/_module/mylistview.gif)|[MyListView](https://github.com/siyehua/Android_Siyehua/tree/master/MyListView)
 ![Image](https://github.com/siyehua/Android_Siyehua/blob/master/srcollshowandhide/_module/myScrollView.gif)|[MySrollView](https://github.com/siyehua/Android_Siyehua/tree/master/srcollshowandhide)
 ![Image](https://github.com/siyehua/Android_Siyehua/blob/master/changesystembarcolor/_module/rendering_pic.jpg)|[ChangeSystemBarColor](https://github.com/siyehua/Android_Siyehua/tree/master/changesystembarcolor)
-![Image](https://github.com/siyehua/Android_Siyehua/blob/master/actionbartest/_module/FlipCardAnimation.gif)|[官方动画:等待和卡片翻转](https://github.com/siyehua/Android_Siyehua/tree/master/actionbartest)
+![Image](https://github.com/siyehua/Android_Siyehua/blob/master/actionbartest/_module/FlipCardAnimation.gif)![Image](https://github.com/siyehua/Android_Siyehua/blob/master/actionbartest/_module/WaiAnimation.gif)|[官方动画:等待和卡片翻转](https://github.com/siyehua/Android_Siyehua/tree/master/actionbartest)
 
 
 
